@@ -20,8 +20,8 @@ def divide(x: float, y: float) -> float:
 
 def main(input_string: str) -> float:
     """Функция оркестратор - выполняет калькуляцию."""
-    first_elem, action, second_elem = input_string.split()
-    x, y = float(first_elem), float(second_elem)
+    first_number, action, second_number = input_string.split()
+    x, y = float(first_number), float(second_number)
     if action == "+":
         result = sum(x, y)
     elif action == "-":
