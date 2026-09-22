@@ -43,7 +43,7 @@
 Работу выполнили:
 |имя|GitHub|telegram|роль|
 |-|-|-|-|
-|Колесник Ян|[KolesnikYI]((https://github.com/KolesnikYI))|[@yankoleso](https://t.me/yankoleso)|Тимлид, разработка `main()`|
+|Колесник Ян|[KolesnikYI](https://github.com/KolesnikYI)|[@yankoleso](https://t.me/yankoleso)|Тимлид, разработка `main()`|
 |Распопова Александра|[alexandraraspopova-git](https://github.com/alexandraraspopova-git)|[@sashkaras](https://t.me/@sashkaras)|Разработка `sum()` и `substract()`|
 |Сагитдинова Камила|[KamilaS1](https://github.com/KamilaS1)|[@Chamomilkens](https://t.me/@Chamomilkens)|Разработка `multiply()`|
-|Чернявский Данил|[dan4ern]((https://github.com/dan4ern))|[@varmalakto](https://t.me/@varmalakto)|Разработка `divide()`|
+|Чернявский Данил|[dan4ern](https://github.com/dan4ern)|[@varmalakto](https://t.me/@varmalakto)|Разработка `divide()`|
